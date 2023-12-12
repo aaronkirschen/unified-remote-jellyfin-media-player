@@ -1,0 +1,7 @@
+meta.name: Jellyfin Media Player
+meta.author: Aaron Kirschen
+meta.description: Remote control for Jellyfin Media Player on Linux and Windows
+meta.platform: linux windows
+meta.tags.category: media
+meta.version: 1
+meta.icon: jellyfin-icon.png
